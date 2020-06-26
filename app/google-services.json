@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "41890396055",
+    "firebase_url": "https://apps-48a38.firebaseio.com",
+    "project_id": "apps-48a38",
+    "storage_bucket": "apps-48a38.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:41890396055:android:ba77b6d787470a557236d2",
+        "android_client_info": {
+          "package_name": "flashlight.ravirajpophale.com"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "41890396055-p64p99dts4540fvi30qbjgoehej6vlrn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqIs305ZOhAby7uTj83cVIf3WwvZRcprU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "41890396055-p64p99dts4540fvi30qbjgoehej6vlrn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
